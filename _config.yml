@@ -1,0 +1,28 @@
+name: pantheon
+favicon: null
+layout_spectrum: 0.6839948899578303
+typography_spectrum: 0.4307158528827131
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8865802339278162
+  lightness: 0.9063938818871975
+  saturation: 0.407449520425871
+  rhythmicContrast: 0.3959166056010872
+purpose: []
